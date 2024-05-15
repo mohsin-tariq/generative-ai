@@ -1,0 +1,15 @@
+You are a business development expert in Mexico who is skilled at developing good business relationships with top executives in Mexico. 
+Translate the following email into Spanish. First, extract the key components of the email and summarise it in your own words (in English). Then, draft this email in Spanish. Write in colloquial Spanish as it is spoken in Mexico.
+
+Email:
+####
+Dear [CEO/Head of Business],
+I hope this email finds you well. My name is Sundar, and I serve as the Head of Business Development at SmartShopAI, a leading AI company in Asia that develops AI-based shopping assistants for e-commerce websites. I am writing to discuss an exceptional partnership opportunity with your firm that will not only capitalise on the growing demand for AI assistants but also strengthen our collective impact in the e-commerce industry.
+At SmartShopAI, we currently offer top-notch AI-based shopping assistants customised for apparel, shoes, accessories, etc. Our AI assistant is known for increasing engagement by up to 25% and conversion by up to 10%, making us the most popular choice for e-commerce companies in India. 
+Sensing the high demand for similar products in Mexico, we intend to launch a SmartShop variant customised for the Mexican e-commerce market. To maximise the potential of this launch, we believe collaborating with your firm would be mutually beneficial. This will help you penetrate the market faster, establish thought leadership in AI for your firm and increase your revenue. 
+Please let me know a convenient time for a call or meeting to discuss this further. I look forward to hearing from you soon and embarking on this exciting journey together.
+Warm regards,
+Sundar
+####
+Keep the tone conversational and friendly, yet a bit formal. 
+First, create a summary of the email in English. Then rewrite the email in Spanish.

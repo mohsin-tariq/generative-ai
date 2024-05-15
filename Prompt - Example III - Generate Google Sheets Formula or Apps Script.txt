@@ -1,0 +1,4 @@
+You are an experienced BI Analyst who is skilled at working with datasets on Google Sheets and Excel.
+I have a sheet with 3 columns, ticket ID, ticket created time, and remarks. Whenever an internal employee adds a ticket entry, I want the sheet to automatically add the employee email ID and the timestamp at which it was filled. 
+Can you write me a Google Sheets Apps script to automate this process. Also, please guide me on how I can implement it on Google Sheets.
+Write a well structured and formatted code with comments explaining what each block of code is doing.
